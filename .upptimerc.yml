@@ -15,6 +15,7 @@ status-website:
   name: sunnypilot
   favicon: https://avatars.githubusercontent.com/u/129032390?s=200&v=4
   introTitle: "Welcome to sunnypilot's status page hub"
+  robotsText: "User-agent: * \n Allow: /"
   introMessage: Below you'll find status information for each of sunnypilot's products and services.
   navbar:
     - title: Status
