@@ -6,6 +6,8 @@ sites:
     url: https://www.sunnypilot.ai
   - name: sunnylink
     url: https://www.sunnylink.ai
+  - name: sunnypilot Community Forum
+    url: https://community.sunnypilot.ai
 
 status-website:
   cname: status.sunnypilot.ai
