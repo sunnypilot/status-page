@@ -20,3 +20,20 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+  metaTags:
+    # SEO tags
+    - name: "description"
+      content: "Real-time status updates and incident history for sunnypilot products and services."
+    - name: "keywords"
+      content: "sunnypilot, sunnylink, community, forum, discourse, status, uptime, downtime, outage, service health"
+
+    # Embed tags
+    - property: "og:title"
+      content: "sunnypilot Status"
+    - property: "og:description"
+      content: "Check real-time availability for sunnypilot, sunnylink, and other services."
+    - property: "og:image"
+      content: "https://avatars.githubusercontent.com/u/129032390?s=200&v=4"
+    - property: "og:url"
+      content: "https://status.sunnypilot.ai"
