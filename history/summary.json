@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 496,
+    "time": 549,
+    "timeDay": 650,
     "timeWeek": 542,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sunnylink.ai.ico",
     "slug": "sunnylink",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
-    "time": 213,
-    "timeDay": 61,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
+    "time": 221,
+    "timeDay": 328,
+    "timeWeek": 196,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2025-12-20": 260
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 328,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "time": 475,
+    "timeDay": 502,
+    "timeWeek": 460,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {}
   }
 ]
