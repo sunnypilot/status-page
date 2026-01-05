@@ -8,6 +8,8 @@ sites:
     url: https://www.sunnylink.ai
   - name: sunnypilot Community Forum
     url: https://community.sunnypilot.ai
+  - name: clippy
+    url: https://clippy.royjr.com
 
 status-website:
   cname: status.sunnypilot.ai
