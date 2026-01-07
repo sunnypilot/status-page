@@ -8,6 +8,11 @@ sites:
     url: https://www.sunnylink.ai
   - name: sunnypilot Community Forum
     url: https://community.sunnypilot.ai
+  - name: clippy
+    url: https://clippy.royjr.com
+    expectedStatusCodes:
+      - 404
+    __dangerous__body_down_if_text_missing: "clip not found"
 
 status-website:
   cname: status.sunnypilot.ai
