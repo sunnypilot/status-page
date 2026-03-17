@@ -66,17 +66,19 @@
     "url": "https://clippy.royjr.com",
     "icon": "https://icons.duckduckgo.com/ip3/clippy.royjr.com.ico",
     "slug": "clippy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 155,
-    "timeWeek": 274,
-    "timeMonth": 289,
-    "timeYear": 501,
-    "dailyMinutesDown": {}
+    "time": 495,
+    "timeDay": 144,
+    "timeWeek": 256,
+    "timeMonth": 284,
+    "timeYear": 495,
+    "dailyMinutesDown": {
+      "2026-03-17": 0
+    }
   }
 ]
